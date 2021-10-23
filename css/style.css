@@ -53,3 +53,221 @@ line-height: 64px;
     bottom:-100px;
     font-size: 30px;
 }
+/* title global css */
+.title{
+    width: 100%;
+}
+.title h2{
+    font-size: 44px;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 54px;
+    color:#1f4f87 ;
+    margin: 0px 0px 20px ;
+}
+
+/* title global css end */
+
+.who-we{
+    width:100% ;
+    padding: 80px 0px;
+}
+.who-we .title{
+    margin-top: 55px;
+}
+.who-we .title p{
+    font-size: 14px;
+    line-height: 25px;
+    color: #b0b0b4;
+}
+.inner-img{
+    width: 100%;
+    text-align: center;
+}
+.we-do-section{
+    width: 100%;
+    padding: 80px 0px;
+    background-color: #eee;
+    background: url(../images/sub.png) bottom right no-repeat;
+    background-size: cover;
+}
+.we-do-section .title{
+    width: 100%;
+    text-align: center;
+    padding: 0px 0px 70px;
+}
+.we-do-section .card{
+    border: 0px solid rgba(0,0,0,.125);
+    border-radius: .0rem;
+}
+
+.we-do-section .card-body{
+    flex: 1 1 auto;
+    padding: 1rem 1rem;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+.inner-text{
+    width: 100%;
+    position: absolute;
+    top:30%;
+    left: 0%;
+}
+.inner-text h4{
+    font-size: 22px;
+    color: #fff;
+    line-height: 37px;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin-top: 50px;
+}
+.inner-text .fa{
+    font-size: 30px;
+    color: #fff;
+    font-weight: 300;
+    top: 256px;
+    position: absolute;
+}
+.our-attorny{
+    width: 100%;
+    padding: 80px 0px;
+    background: url(../images/bg.png) center top no-repeat ;
+    background-size: cover;
+}
+.our-attorny .title{
+    width: 100%;
+    margin-top: 90px;
+}
+.our-attorny .title h2{
+    color: #fff
+}
+.our-attorny .title p{
+    font-size: 14px;
+    line-height: 25px;
+    color: #fff;
+}
+.our-attorny .title .btn-link{
+    font-size: 22px;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 1px;
+    color:#f2652c ;
+    text-decoration: none;
+    padding: 0px;
+    margin:25px 0px 0px;
+}
+.our-attorny .card{
+    border: 0px solid rgba(0,0,0,.125);
+    border-radius: .0rem;
+    margin-bottom: 20px;
+}
+
+.our-attorny .card .card-body{
+    position: absolute;
+    bottom: 35px;
+    left: 20px;
+}
+.our-attorny .card .card-body .inner-content{
+    width: 100%;
+}
+.our-attorny .card .card-body .inner-content h4{
+    font-size: 22px;
+    color: #fff;
+    line-height: 30px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.language-section{
+    width: 100%;
+    padding: 80px 0px;
+}
+.language-section .title{
+    text-align: center;
+    width: 100%;
+    margin: 0px 0px 70px;
+
+}
+.language-inner{
+    width: 100%;
+    padding: 40px 0px 0px;
+}
+.language-inner h4{
+    font-size: 22px;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 30px;
+    color:#1f4f87 ;
+    margin-bottom: 20px;
+}
+
+.language-inner p{
+    font-size: 14px;
+    line-height: 25px;
+    color: #b0b0b4;
+}
+.language-inner .btn-link{
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 1px;
+    color:#f2652c ;
+    text-decoration: none;
+    padding: 0px;
+    margin:15px 0px 0px;  
+}
+.contact-us{
+    width: 100%;
+    background: #1f4f87;
+    text-align: center;
+}
+.contact-us .title{
+    width: 100%;
+    text-align: center;
+    text-transform: uppercase;
+    color: #fff;
+    margin-top: 25px;
+}
+.contact-us .title img{
+    margin: 15px 0 21px 0px; }
+
+.contact-us .title h2{
+    color: #fff;
+    text-align: center;
+}
+.contact-us .input-box input{
+    width: 100%;
+    text-align: center;
+    border: none;
+    margin: 25px 30px 10px 30px;
+    font-size: 20px;
+    height: 30px;
+    color: #fff;
+    background: transparent;
+}
+.contact-us .btn-dark{
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 1px;
+    color:#fff ;
+    background: #f2652c;
+    padding: 18px 5px;
+    margin:55px 10px;  
+    text-align: center;
+}
+.footer{
+    width:100% ;
+}
+
+.footer .row{margin-right: 0px;}
+.footer p {
+    text-transform: uppercase;
+    font-size: 12px;
+    line-height: 22px;
+    padding: 15px 5px;
+    color: #737cad;
+    background-color: #0c1234;
+    text-align: center;
+}
